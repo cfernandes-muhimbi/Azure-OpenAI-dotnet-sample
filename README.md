@@ -8,6 +8,11 @@ Basic code sample for Azure OpenAI api in C#
    - [Nucleus Sampling](#nucleus-sampling)
    - [Frequency Penalty](#frequency-penalty)
 
+
+## Check out our latest YouTube video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uxuVny6cfBM" frameborder="0" allowfullscreen></iframe>
+
 # What is Azure Open AI<a name="What is Azure Open AI"></a>
 
 Azure OpenAI Service is an Azure AI service that allows access to OpenAI GPT-4, GPT-3, Codex, DALL-E, and Whisper models. Azure OpenAI Service provides REST API access to OpenAI’s powerful language models, which can be invoked by the programing language of your choice.
