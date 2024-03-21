@@ -9,9 +9,12 @@ Basic code sample for Azure OpenAI api in C#
    - [Frequency Penalty](#frequency-penalty)
 
 
-## Check out our latest YouTube video:
+### Check out the YouTube video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uxuVny6cfBM" frameborder="0" allowfullscreen></iframe>
+[![Check out our latest video](https://i9.ytimg.com/vi_webp/uxuVny6cfBM/mq1.webp?sqp=CODb8q8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCIgVih_MA8=&rs=AOn4CLDryPifRFUpElZNkWCDdXGSipbDPg)](https://www.youtube.com/watch?v=uxuVny6cfBM)
+
+
+
 
 # What is Azure Open AI<a name="What is Azure Open AI"></a>
 
