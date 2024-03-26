@@ -11,7 +11,8 @@ Basic code sample for Azure OpenAI api in C#
 
 ### Check out the YouTube video:
 
-[![Check out our latest video](https://i9.ytimg.com/vi_webp/uxuVny6cfBM/mq1.webp?sqp=CODb8q8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCIgVih_MA8=&rs=AOn4CLDryPifRFUpElZNkWCDdXGSipbDPg)](https://www.youtube.com/watch?v=uxuVny6cfBM)
+[![Azure OpenAI dotnet sample](https://img.youtube.com/vi/uxuVny6cfBM/0.jpg)](https://www.youtube.com/watch?v=uxuVny6cfBM)
+
 
 
 
